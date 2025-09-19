@@ -1,0 +1,8 @@
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\bin\Debug\practica de campo 4.exe.config
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\bin\Debug\practica de campo 4.exe
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\bin\Debug\practica de campo 4.pdb
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\obj\Debug\practica de campo 4.csproj.AssemblyReference.cache
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\obj\Debug\practica de campo 4.csproj.CoreCompileInputs.cache
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\obj\Debug\practica de campo 4.exe
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\obj\Debug\practica de campo 4.pdb
+C:\PRACTICA DE CAMPO\practica de campo 4\practica de campo 4\obj\Debug\practica de campo 4.exe.config
